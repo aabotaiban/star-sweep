@@ -1,0 +1,11 @@
+# Build output: rebuilt from source with the command in README.md
+build/
+dist/
+*.spec
+
+# The itch.io download is uploaded there, not kept in the repository
+release/*.zip
+
+# Python caches
+__pycache__/
+*.pyc

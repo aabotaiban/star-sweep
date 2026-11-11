@@ -1,0 +1,34 @@
+STAR SWEEP
+==========
+
+Fly your saucer through a falling sky. Catch the stars, dodge or blast the meteors.
+Big meteors break into fragments when shot. The sky speeds up every 20 seconds.
+
+HOW TO START
+  Double-click StarSweep.exe. Nothing to install.
+  The first time, the game opens its How to Play guide (7 short pages).
+
+  Windows may show "Windows protected your PC" because the game is new and not
+  code-signed. Click "More info", then "Run anyway".
+
+CONTROLS
+  W / Up arrow ........ fly forward (where the nose points)
+  S / Down arrow ...... fly backward
+  A D / Left Right .... slide sideways
+  Mouse ............... the ship turns to face the pointer
+  Q / E ............... turn without a mouse
+  Space / left click .. fire the laser (hold)
+  P or Esc ............ pause
+  H ................... How to Play guide
+  M ................... sound on/off
+
+SCORING
+  Star .............. 10 x your combo (every 5 stars in a row raises it, up to x5)
+  Meteor shot ....... +15     Fragment shot ... +10
+  Ram with shield ... +5
+  Power-ups: heart = extra life, hexagon = shield (6 s), clock = slow-mo (5 s)
+
+  The laser heats up: about 3 seconds of non-stop fire overheats it until it cools.
+
+Your best score is saved in %APPDATA%\StarSweep\highscore.json.
+Requires Windows 10 or 11 (64-bit).
